@@ -1,21 +1,23 @@
-🔥 Full Stack Java Dev – Road to a Top Tech Job  
-Welcome to my journey of mastering Full Stack Java Development from scratch. I'm documenting every step with real learning, projects, and progress — all in public.
+# 🚀 Mastering Full Stack Java Development – My Coding Journey to Crack Top Tech Jobs
 
-💡 What’s Inside?  
-✅ Daily coding logs & hands-on learning  
-✅ Projects from frontend to backend  
-✅ Clean, beginner-friendly code  
-✅ Real-world practice & consistent improvement
+This repo is my digital journal as I dive deep into the world of Full Stack Java Development. I'm starting from scratch — learning, building, and growing in public with full focus on real-world skills.
 
-🧠 Skills I’m Building:  
-- Problem-solving & logic  
-- Web development thinking  
-- Step-by-step growth as a developer
+📂 What You’ll Find:
+🔸 Code snippets, projects & learning notes  
+🔸 Real progress as I move from basics to deployment  
+🔸 Clear, beginner-first code with thoughtful structure  
+🔸 Honest updates & breakthrough moments
 
-🎯 Why This Journey?  
-To become job-ready, build real stuff, and unlock high-paying tech opportunities — one commit at a time.
+🌱 This Is All About:
+- Building strong dev habits  
+- Learning through doing  
+- Staying consistent, not perfect  
+- Crafting a job-ready portfolio
 
-“Learn. Build. Repeat.”  
-Let’s grow together. 🌱
+💭 My Goal?  
+To land a great developer role by building real things, learning every day, and sharing the process.
 
-#Java #FullStackDev #BuildInPublic
+“Start simple. Stay consistent. Level up.”  
+Feel free to watch this journey unfold.
+
+#FullStack #JavaDev #CodeJourney #BuildInPublic
