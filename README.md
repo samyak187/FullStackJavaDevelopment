@@ -20,4 +20,4 @@ To land a great developer role by building real things, learning every day, and 
 “Start simple. Stay consistent. Level up.”  
 Feel free to watch this journey unfold.
 
-#FullStack #JavaDev #CodeJourney #BuildInPublic
+#FullStackDevelopment #Java #BuildInPublic
