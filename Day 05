@@ -1,0 +1,96 @@
+#html code
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CSS</title>
+    <style>
+        div, span {
+            color: red;
+            background-color: yellow;
+        }
+    </style>
+</head>
+<body>
+    <div>
+        Hey I am samyak and today I am in CSS Mood
+    </div>
+
+    <div>
+        I am good
+    </div>
+    <span>
+        I am also good
+    </span>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Asperiores tempora possimus molestiae doloremque quod. Recusandae laborum, laudantium cupiditate magni nostrum sit repellat dolorum ipsa vero aspernatur saepe autem, quod obcaecati, maxime quaerat! Praesentium culpa ipsam quasi odio sapiente nam, animi velit corporis nostrum!</p>
+</body>
+</html>
+
+
+#html code
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <!-- <style>
+        h1{
+            background-color: red;
+            color: yellow;
+        }
+
+    </style> -->
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <!-- <h1 style="color: yellow;background-color: red;">Three ways to add CSS to HTML</h1> -->
+    <h1>Three ways to add CSS to HTML</h1>
+    <div>
+        <ol>
+            <li>Inline CSS</li>
+            <li>Internal CSS</li>
+            <li>External CSS</li>
+        </ol>
+    </div>
+    <p>Everyone is good in some way or the other. Does this even make any sense?</p>
+</body>
+</html>
+
+
+#css code
+h1{
+    background-color: red;
+    color: yellow;
+}
+
+
+#html code
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>My Videos and Audios for the Day</h1>
+    <h2>Some Videos for the Day</h2>
+    <div>
+        <video width="239" src="1.mp4" controls></video>
+        <video width="239" src="2.mp4" controls></video>
+        <video width="239" src="3.mp4" controls></video>
+        <video width="239" src="4.mp4" controls></video>
+        <video width="239" src="5.mp4" controls></video>
+    </div>
+    <h2>Some Audios for the Day</h2>
+    <div>
+        <audio src="1.mp3" controls></audio>
+        <audio src="2.mp3" controls></audio>
+        <audio src="3.mp3" controls></audio>
+        <audio src="4.mp3" controls></audio>
+        <audio src="5.mp3" controls></audio>
+    </div>
+</body>
+</html>
